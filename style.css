@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.container-fluid {
+    padding: 0.5rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+nav {
+    height: 5rem;
+}
+
+.nav-link {
+    font-size: 1.55rem;
+    padding: 4rem;
+    margin: 1rem;
+}
+
+.btn {
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+.col {
+    /* border: 2px solid red; */
+}
+
+.col h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+}
+.col p{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.heading {
+    width: 531px;
+    height: 481px;
+    gap: 35px;
+    opacity: 0px;
+}
+.main-img{
+    width: 600.46px;
+height: 515px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+}
+.services {
+    background: #B9FF66;
+    border-radius: 10px;
+}
+.services h2{
+    font-size: rem;
+    font-weight: 800;
+    margin-left: rem;
+}
+.cards{
+    padding-top: 4rem;
+}
+.working{
+    background: #B9FF66;
+    border-radius: 10px;
+}
+fieldset{
+    background: #F3F3F3;
+}
+fieldset img{
+    float: right;
+}
+.contact{
+    background: #B9FF66;
+    border-radius: 10px;
+}
+.form-control{
+    width: 18rem;
+}
+.f-contact{
+   background: transparent;
+   /* border: 1px solid white; */
+}
+.btn-secondary{
+   font-size: 1rem;
+   padding: 1rem;  
+}
+.footer{
+    border-top-right-radius: 20px ;
+    border-top-left-radius: 20px;
+}
+
+
+
+
+
